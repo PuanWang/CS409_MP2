@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.review/
+.cache/
+*.local
+*.tsbuildinfo
+
+# Local assignment reference video (not an application asset)
+example.mp4
